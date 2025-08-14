@@ -1,0 +1,11 @@
+[project]
+name = "gobang"
+version = "0.1.0"
+description = "Console Gobang (Five in a Row) game"
+authors = [{name="Your Name"}]
+requires-python = ">=3.8"
+readme = "README.md"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
